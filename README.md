@@ -49,12 +49,6 @@ Open http://localhost:3000
 
 Without the keys, search still works using YouTube-only results.
 
-## Deploy on Vercel
-
-1. Push this repo to GitHub.
-2. Import it on [vercel.com](https://vercel.com). Next.js is auto-detected.
-3. Add the optional env vars under Project Settings → Environment Variables, then redeploy.
-
 ## Project structure
 
 ```
